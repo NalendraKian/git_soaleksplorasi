@@ -5,3 +5,12 @@ Penambahan Fitur A_1
 Penambahan Fitur A_2
 
 Penambahan Fitur A_3
+
+Penambahan Fitur B_1
+
+Penambahan Fitur B_2
+
+Penambahan Fitur B_3
+
+Penambahan Fitur B_4
+
